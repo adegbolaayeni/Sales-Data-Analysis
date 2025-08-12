@@ -62,3 +62,6 @@ The analysis uses an Excel file, `sales_data.xlsx`, containing:
 - 🤖 Build predictive models for sales forecasting  
 
 ---
+💡 **Author:** Adegbola Ayeni  
+📧 Contact: ayeniadegbolaelijah@gmail.com  
+🌐 Portfolio: https://github.com/adegbolaayeni
