@@ -55,13 +55,6 @@ The analysis uses an Excel file, `sales_data.xlsx`, containing:
 - Strong correlations between variables can support **predictive modeling**  
 
 ---
-
-## 🚀 Future Enhancements  
-- 📆 Add time-series analysis to detect seasonal patterns  
-- 🎯 Segment customers based on purchasing behavior  
-- 🤖 Build predictive models for sales forecasting  
-
----
 💡 **Author:** Adegbola Ayeni  
 📧 Contact: ayeniadegbolaelijah@gmail.com  
 🌐 Portfolio: https://github.com/adegbolaayeni
